@@ -35,10 +35,8 @@ plt.xlabel("Feature 1")
 plt.ylabel("Feaure 2")
 plt.title("Random Classification Data with 2 classes")
 
-
-
-## Output:
-![random classification output](https://user-images.githubusercontent.com/104021170/169470542-3f60796b-fd3c-4c10-979d-aee40790f506.jpg)
+## Output
+![random classification output](https://user-images.githubusercontent.com/104021170/169472906-f5ce627f-46d7-41da-bc95-172a3939aad8.jpg)
 
 
 
